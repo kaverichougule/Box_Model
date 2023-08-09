@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.frame {
+    border: 2px solid red;
+    width: 600px;
+    height: 350px;
+    margin: 2%;
+}
+.one {
+    border: 2px solid red;
+    width: 580px;
+    height: 50px;
+    margin: 25px auto;
+}
+.text {
+    margin: 5px 10px;
+}
+.two {
+    border: 2px solid red;
+    width: 580px;
+    height: auto;
+    margin: 25px auto;
+}
+.text_p {
+    margin: 10px 10px;
+    font-size: 17px;
+}
+.three {
+    border: 2px solid red;
+    width: 580px;
+    height: auto;
+    margin: 25px auto;
+}
+.info1 {
+    border: 2px solid red;
+    margin: 10px 10px 0 10px;
+}
+.info2 {
+    border: 2px solid red;
+    margin: 0 10px 10px 10px;
+}
+.info3 {
+    margin: 2%;
+}
+span, a{
+    border: 2px solid red;
+    padding: 1%;
+}
+span {
+    background-color: rgb(235, 231, 231);
+}
+.hr1 {
+    border: 1px solid red;
+    width: 605px;
+    margin-left: -1.5%;
+    margin-top: -3px;
+}
+.line {
+    border-top: 9px solid red;
+    width: 1.5px;
+    margin: 0 7px;
+}
