@@ -6,11 +6,12 @@ index.html: <br>
 'div class="frame"': This <div> contains the content to be styled using the box model. <br>
 Four 'div' elements with classes one, two, three, and four: These represent different sections of content that will be styled using the box model. <br>
 Each 'div' has a border, width, height, and margin to create boxes around the content. <br>
-Inside these <div> elements, there are various HTML elements like headings, paragraphs, lists, buttons, and links. <br><br>
+Inside these 'div' elements, there are various HTML elements like headings, paragraphs, lists, buttons, and links. <br><br>
 'hr class="hr1"': This is a horizontal rule element with a class hr1. <br>
 It's styled with a red border to create a visual divider between sections. <br> <br>
 'div class="line"': This is a 'div' element with a class line.<br>
 It's styled with a red border on top to create a thin red line. <br> <br>
+
 styles.css:<br>
 *: This universal selector resets margin, padding, and box-sizing for all elements. <br>
 .frame: This class styles the outer container.<br>
